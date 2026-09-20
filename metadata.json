@@ -1,0 +1,10 @@
+{
+  "name": "Living Electrical & Air Condition Service",
+  "description": "24/7 emergency AC repair, HVAC installation, maintenance and certified electrical services in Accra and nearby areas. Rated 5.0 on Google. Call 024 781 8784.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
